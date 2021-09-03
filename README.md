@@ -1,6 +1,8 @@
 # k8s-pi-cluster
 Raspberry PI Kubernetes cluster
 
+![Pi k8s Cluster](images/pi-cluster.jpg)
+
 ## Hardware:
 * x1 Raspberry Pi 3B (master node)
 * x3 Raspberry Pi 4B (worker nodes)
